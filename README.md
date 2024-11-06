@@ -2,7 +2,7 @@
 
 **`Futuro Dev`**
 
-Me chamo Murilo Dias Fonseca, tenho 18 anos e sou natural do Rio de janeiro. Concluí o ensino médio no CEPAP. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas no SENACRJ. Sou apaixonada por tecnologia e compartilho meu conhecimento através do meu canal no YouTube "[Larissa Kich](https://www.youtube.com/@larissakich)", onde ensino a criar projetos web, e também através do Instagram, com o perfil chamado "[Dev em Dev](https://www.instagram.com/dev_em_dev/)".
+Me chamo Murilo Dias Fonseca, tenho 18 anos e sou natural do Rio de janeiro. Concluí o ensino médio no CEPAP. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas no SENACRJ. 
 
 <p align="left">
     </a> 
